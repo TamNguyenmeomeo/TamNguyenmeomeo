@@ -1,11 +1,11 @@
 
 
-# 👋 Xin chào, tôi là Nguyen Thanh Tam
+# 👋 Xin chào, tôi là Nguyễn Thanh Tâm
 
 ### 🚀 IT Support → Cloud Support Engineer
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-TamNguyenmeomeo.github.io-4facfe?style=for-the-badge)](https://tamnguyen-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tamnguyen--portfolio-4facfe?style=for-the-badge&logo=vercel)](https://tamnguyen-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:thanhtamtnk123@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=TamNguyenmeomeo&color=4facfe&style=flat-square&label=Profile+Views)
@@ -24,7 +24,7 @@ I'm an IT Support specialist actively transitioning to **Cloud Support / Cloud O
 | ☁️ **Target Role** | Cloud Support Engineer / DevOps / Cloud Operations |
 | 🧠 **Currently Building** | Docker, Kubernetes, Prometheus/Grafana, GCP/AWS |
 | 🌏 **Location** | Vietnam |
-| 🌐 **Portfolio** | [TamNguyenmeomeo.github.io](https://tamnguyen-portfolio.vercel.app/) |
+| 🌐 **Portfolio** | [tamnguyen-portfolio.vercel.app](https://tamnguyen-portfolio.vercel.app/) |
 
 ---
 
