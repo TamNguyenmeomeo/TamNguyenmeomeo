@@ -1,4 +1,4 @@
-<div align="center">
+<img width="889" height="977" alt="image" src="https://github.com/user-attachments/assets/9c4c1764-0f20-409e-b4a7-bcca487f962a" /><div align="center">
 
 # 👋 Xin chào, tôi là Nguyen Thanh Tam
 
@@ -24,7 +24,7 @@ I'm an IT Support specialist actively transitioning to **Cloud Support / Cloud O
 | ☁️ **Target Role** | Cloud Support Engineer / DevOps / Cloud Operations |
 | 🧠 **Currently Building** | Docker, Kubernetes, Prometheus/Grafana, GCP/AWS |
 | 🌏 **Location** | Vietnam |
-| 🌐 **Portfolio** | [TamNguyenmeomeo.github.io](https://TamNguyenmeomeo.github.io) |
+| 🌐 **Portfolio** | [TamNguyenmeomeo.github.io](https://tamnguyen-portfolio.vercel.app/) |
 
 ---
 
@@ -53,7 +53,7 @@ I'm an IT Support specialist actively transitioning to **Cloud Support / Cloud O
 
 ## 📁 Portfolio Projects
 
-> 🌐 Full interactive portfolio: **[TamNguyenmeomeo.github.io](https://TamNguyenmeomeo.github.io)**
+> 🌐 Full interactive portfolio: **[TamNguyenmeomeo.github.io](https://tamnguyen-portfolio.vercel.app/)**
 
 ### 🤖 AI & Machine Learning for IT Operations
 
