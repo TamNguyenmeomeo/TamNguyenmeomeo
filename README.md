@@ -1,4 +1,4 @@
-<img width="889" height="977" alt="image" src="https://github.com/user-attachments/assets/9c4c1764-0f20-409e-b4a7-bcca487f962a" /><div align="center">
+
 
 # 👋 Xin chào, tôi là Nguyen Thanh Tam
 
