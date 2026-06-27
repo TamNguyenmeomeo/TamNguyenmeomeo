@@ -2,7 +2,7 @@
 
 # 👋 Xin chào, tôi là Tâm — Nguyễn Thanh Tâm
 
-**`IT Support → Cloud & DevOps Engineer (đang trên đường)`**
+**`IT Support → Cloud & DevOps Engineer`**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tamnguyen--portfolio.vercel.app-0ea5e9?style=for-the-badge)](https://tamnguyen-portfolio.vercel.app)
 [![Location](https://img.shields.io/badge/📍-Hồ_Chí_Minh,_Việt_Nam-red?style=for-the-badge)](#)
