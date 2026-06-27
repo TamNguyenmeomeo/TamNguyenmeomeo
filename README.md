@@ -1,29 +1,29 @@
 <div align="center">
 
-# 👋 Xin chào, tôi là Tâm — Nguyễn Thanh Tâm
+# Hi there, I'm Tam — Nguyen Thanh Tam 👋
 
-**`IT Support → Cloud & DevOps Engineer`**
+**`IT Support → Cloud & DevOps Engineer (in transition)`**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tamnguyen--portfolio.vercel.app-0ea5e9?style=for-the-badge)](https://tamnguyen-portfolio.vercel.app)
-[![Location](https://img.shields.io/badge/📍-Hồ_Chí_Minh,_Việt_Nam-red?style=for-the-badge)](#)
+[![Location](https://img.shields.io/badge/📍-Ho_Chi_Minh_City,_Vietnam-red?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-## 🧭 Về tôi
+## 🧭 About Me
 
-Tôi là IT Support Specialist với nền tảng vững chắc về hệ thống, mạng và troubleshooting — đang tích cực chuyển hướng sang **Cloud Support Engineering & DevOps**. Tôi xây dựng các project thực chiến để minh chứng khả năng vận hành hệ thống cloud ở cấp production, không chỉ học lý thuyết.
+I'm an IT Support Specialist with a solid foundation in systems, networking, and troubleshooting — actively transitioning into **Cloud Support Engineering & DevOps**. I build production-quality, portfolio-ready projects that demonstrate real cloud infrastructure skills, not just theory.
 
-- 🔭 Đang làm: **Kubernetes Cluster Monitoring** (Project 17)
-- 🌱 Đang học: **Kubernetes, Terraform, AWS CCP**
-- 💬 Hỏi tôi về: `Python scripting`, `Docker`, `Prometheus/Grafana`, `Linux sysadmin`
-- 🎯 Mục tiêu: Cloud Support / SRE / DevOps Engineer tại công ty tech
-- ⚡ Fun fact: IT Support giỏi nhất là người biết tự động hóa công việc của mình
+- 🔭 Currently working on: **Kubernetes Cluster Monitoring** (Project 17)
+- 🌱 Currently learning: **Kubernetes, Terraform, AWS CCP**
+- 💬 Ask me about: `Python scripting`, `Docker`, `Prometheus/Grafana`, `Linux sysadmin`
+- 🎯 Goal: Land a Cloud Support / SRE / DevOps Engineer role at a tech company
+- ⚡ Fun fact: The best IT Support engineer is the one who automates themselves out of repetitive work
 
 ---
 
-## 🛠️ Công Nghệ & Kỹ Năng
+## 🛠️ Tech Stack
 
 **Cloud & Infrastructure**
 
@@ -48,7 +48,7 @@ Tôi là IT Support Specialist với nền tảng vững chắc về hệ thốn
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-**Tools**
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
@@ -59,29 +59,29 @@ Tôi là IT Support Specialist với nền tảng vững chắc về hệ thốn
 
 ## 📁 Portfolio Projects
 
-| # | Project | Mô tả | Tech Stack |
+| # | Project | Description | Stack |
 |---|---|---|---|
-| 10 | [🤖 AI IT Support Assistant](https://github.com/TamNguyenmeomeo/10_ai_it_support_assistant) | Offline-first helpdesk agent: RAG + local LLM, tự động triage & sinh PowerShell script | Python, Ollama, SQLite |
-| 11 | [📡 Network & System Monitor](https://github.com/TamNguyenmeomeo/11_network_system_monitor) | Dashboard giám sát tài nguyên hệ thống, cảnh báo Discord/Telegram | Python, Streamlit, psutil |
-| 12 | [🔍 Log Anomaly Detector](https://github.com/TamNguyenmeomeo/12_log_anomaly_detector) | Phát hiện bất thường trong server log bằng ML, cảnh báo webhook | Python, Isolation Forest |
-| 13 | [⚙️ OS Setup Toolkit](https://github.com/TamNguyenmeomeo/13_os_setup_optimization_toolkit) | Tự động hóa cài đặt & tối ưu Windows/Linux cho IT team | Bash, PowerShell |
-| 14 | [☁️ Cloud Storage & IAM Simulator](https://github.com/TamNguyenmeomeo/14_cloud_storage_iam_simulator) | Mô phỏng S3/IAM với MinIO + Docker, phân quyền Admin/Dev/ReadOnly | Python, Docker, MinIO |
-| 15 | [📊 Cloud Monitoring Stack](https://github.com/TamNguyenmeomeo/15_cloud_monitoring_stack) | Production monitoring: Prometheus + Grafana + cAdvisor + Alertmanager | Docker Compose, Telegram |
-| 16 | [🚀 3-Tier Cloud Migration App](https://github.com/TamNguyenmeomeo/16_cloud_migration_3tier_app) | Nginx → Flask → PostgreSQL, deploy 1 lệnh lên GCP/AWS/DO | Docker, Flask, Nginx |
+| 10 | [🤖 AI IT Support Assistant](https://github.com/TamNguyenmeomeo/10_ai_it_support_assistant) | Offline-first helpdesk agent using local RAG (1,213 records) + Ollama LLM. Auto-triages issues & generates PowerShell fix scripts. | Python, Ollama, SQLite |
+| 11 | [📡 Network & System Monitor](https://github.com/TamNguyenmeomeo/11_network_system_monitor) | Real-time system resource dashboard with automated Discord/Telegram alert notifications. | Python, Streamlit, psutil |
+| 12 | [🔍 Log Anomaly Detector](https://github.com/TamNguyenmeomeo/12_log_anomaly_detector) | ML-based server log anomaly detection using Isolation Forest. Webhook alerts for threats & latency spikes. | Python, scikit-learn |
+| 13 | [⚙️ OS Setup Toolkit](https://github.com/TamNguyenmeomeo/13_os_setup_optimization_toolkit) | One-command Windows/Linux setup & optimization toolkit for IT teams. | Bash, PowerShell |
+| 14 | [☁️ Cloud Storage & IAM Simulator](https://github.com/TamNguyenmeomeo/14_cloud_storage_iam_simulator) | Local AWS S3/IAM simulator using MinIO + Docker. Implements Admin, Developer, and ReadOnly IAM roles. | Python, Docker, MinIO |
+| 15 | [📊 Cloud Monitoring Stack](https://github.com/TamNguyenmeomeo/15_cloud_monitoring_stack) | Production-grade monitoring: Prometheus + Grafana + cAdvisor + Alertmanager → Telegram notifications. | Docker Compose |
+| 16 | [🚀 3-Tier Cloud Migration App](https://github.com/TamNguyenmeomeo/16_cloud_migration_3tier_app) | Nginx → Flask → PostgreSQL app with one-command deploy script for GCP/AWS/DO. | Docker, Flask, Nginx |
 
 ---
 
 ## 🗺️ Career Roadmap: IT Support → Cloud Engineer
 
-| Kỹ năng cũ (IT Support) | → | Kỹ năng mới (Cloud/DevOps) | Status |
+| IT Support Skills | → | Cloud / DevOps Skills | Status |
 |---|---|---|---|
-| Ticket Management | → | AI-Assisted Helpdesk (Pro 10) | ✅ Done |
-| Network Diagnostics | → | Real-time Monitoring (Pro 11, 15) | ✅ Done |
-| Log Analysis | → | ML Anomaly Detection (Pro 12) | ✅ Done |
-| OS Administration | → | Automated Setup Toolkit (Pro 13) | ✅ Done |
-| Cloud Fundamentals | → | IAM & Storage Simulation (Pro 14) | ✅ Done |
-| App Deployment | → | 3-Tier Cloud Migration (Pro 16) | ✅ Done |
-| Container Orchestration | → | Kubernetes Monitoring (Pro 17) | 🔄 In Progress |
+| Ticket & Issue Management | → | AI-Assisted Helpdesk (Project 10) | ✅ Done |
+| Network Diagnostics | → | Real-time Monitoring (Projects 11, 15) | ✅ Done |
+| Log Analysis | → | ML Anomaly Detection (Project 12) | ✅ Done |
+| OS Administration | → | Automated Setup Toolkit (Project 13) | ✅ Done |
+| Cloud Fundamentals | → | IAM & Storage Simulation (Project 14) | ✅ Done |
+| Application Deployment | → | 3-Tier Cloud Migration (Project 16) | ✅ Done |
+| Container Orchestration | → | Kubernetes Monitoring (Project 17) | 🔄 In Progress |
 | Infrastructure as Code | → | Terraform on AWS | ⬜ Next |
 
 ---
@@ -100,7 +100,7 @@ Tôi là IT Support Specialist với nền tảng vững chắc về hệ thốn
 
 ---
 
-## 📫 Liên Hệ
+## 📫 Get In Touch
 
 <div align="center">
 
