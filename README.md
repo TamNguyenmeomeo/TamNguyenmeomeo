@@ -61,13 +61,13 @@ I'm an IT Support Specialist with a solid foundation in systems, networking, and
 
 | # | Project | Description | Stack |
 |---|---|---|---|
-| 10 | [🤖 AI IT Support Assistant](https://github.com/TamNguyenmeomeo/10_ai_it_support_assistant) | Offline-first helpdesk agent using local RAG (1,213 records) + Ollama LLM. Auto-triages issues & generates PowerShell fix scripts. | Python, Ollama, SQLite |
-| 11 | [📡 Network & System Monitor](https://github.com/TamNguyenmeomeo/11_network_system_monitor) | Real-time system resource dashboard with automated Discord/Telegram alert notifications. | Python, Streamlit, psutil |
-| 12 | [🔍 Log Anomaly Detector](https://github.com/TamNguyenmeomeo/12_log_anomaly_detector) | ML-based server log anomaly detection using Isolation Forest. Webhook alerts for threats & latency spikes. | Python, scikit-learn |
-| 13 | [⚙️ OS Setup Toolkit](https://github.com/TamNguyenmeomeo/13_os_setup_optimization_toolkit) | One-command Windows/Linux setup & optimization toolkit for IT teams. | Bash, PowerShell |
-| 14 | [☁️ Cloud Storage & IAM Simulator](https://github.com/TamNguyenmeomeo/14_cloud_storage_iam_simulator) | Local AWS S3/IAM simulator using MinIO + Docker. Implements Admin, Developer, and ReadOnly IAM roles. | Python, Docker, MinIO |
-| 15 | [📊 Cloud Monitoring Stack](https://github.com/TamNguyenmeomeo/15_cloud_monitoring_stack) | Production-grade monitoring: Prometheus + Grafana + cAdvisor + Alertmanager → Telegram notifications. | Docker Compose |
-| 16 | [🚀 3-Tier Cloud Migration App](https://github.com/TamNguyenmeomeo/16_cloud_migration_3tier_app) | Nginx → Flask → PostgreSQL app with one-command deploy script for GCP/AWS/DO. | Docker, Flask, Nginx |
+| 10 | [🤖 AI IT Support Assistant](https://github.com/ThanhTamSys/10_ai_it_support_assistant) | Offline-first helpdesk agent using local RAG (1,213 records) + Ollama LLM. Auto-triages issues & generates PowerShell fix scripts. | Python, Ollama, SQLite |
+| 11 | [📡 Network & System Monitor](https://github.com/ThanhTamSys/11_network_system_monitor) | Real-time system resource dashboard with automated Discord/Telegram alert notifications. | Python, Streamlit, psutil |
+| 12 | [🔍 Log Anomaly Detector](https://github.com/ThanhTamSys/12_log_anomaly_detector) | ML-based server log anomaly detection using Isolation Forest. Webhook alerts for threats & latency spikes. | Python, scikit-learn |
+| 13 | [⚙️ OS Setup Toolkit](https://github.com/ThanhTamSys/13_os_setup_optimization_toolkit) | One-command Windows/Linux setup & optimization toolkit for IT teams. | Bash, PowerShell |
+| 14 | [☁️ Cloud Storage & IAM Simulator](https://github.com/ThanhTamSys/14_cloud_storage_iam_simulator) | Local AWS S3/IAM simulator using MinIO + Docker. Implements Admin, Developer, and ReadOnly IAM roles. | Python, Docker, MinIO |
+| 15 | [📊 Cloud Monitoring Stack](https://github.com/ThanhTamSys/15_cloud_monitoring_stack) | Production-grade monitoring: Prometheus + Grafana + cAdvisor + Alertmanager → Telegram notifications. | Docker Compose |
+| 16 | [🚀 3-Tier Cloud Migration App](https://github.com/ThanhTamSys/16_cloud_migration_3tier_app) | Nginx → Flask → PostgreSQL app with one-command deploy script for GCP/AWS/DO. | Docker, Flask, Nginx |
 
 ---
 
@@ -90,11 +90,11 @@ I'm an IT Support Specialist with a solid foundation in systems, networking, and
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TamNguyenmeomeo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThanhTamSys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TamNguyenmeomeo&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhTamSys&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TamNguyenmeomeo&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ThanhTamSys&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -105,7 +105,7 @@ I'm an IT Support Specialist with a solid foundation in systems, networking, and
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://tamnguyen-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TamNguyenmeomeo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ThanhTamSys)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenthanhtam.sys@gmail.com)
 
 *Building the bridge from IT Support → Cloud Engineering, one project at a time 🚀*
