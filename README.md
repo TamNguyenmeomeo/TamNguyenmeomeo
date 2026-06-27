@@ -1,86 +1,88 @@
-
-
-# 👋 Xin chào, tôi là Nguyễn Thanh Tâm
-
-### 🚀 IT Support → Cloud Support Engineer
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tamnguyen--portfolio-4facfe?style=for-the-badge&logo=vercel)](https://tamnguyen-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:thanhtamtnk123@gmail.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=TamNguyenmeomeo&color=4facfe&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
-## 🧭 About Me
-
-I'm an IT Support specialist actively transitioning to **Cloud Support / Cloud Operations** engineering. My focus is on building production-quality, portfolio-ready projects that demonstrate real cloud infrastructure skills.
-
-| | |
-|---|---|
-| 🔧 **Background** | IT Support, Network Troubleshooting, SysAdmin |
-| ☁️ **Target Role** | Cloud Support Engineer / DevOps / Cloud Operations |
-| 🧠 **Currently Building** | Docker, Kubernetes, Prometheus/Grafana, GCP/AWS |
-| 🌏 **Location** | Vietnam |
-| 🌐 **Portfolio** | [tamnguyen-portfolio.vercel.app](https://tamnguyen-portfolio.vercel.app/) |
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+# 👋 Xin chào, tôi là Tâm — Nguyễn Thanh Tâm
+
+**`IT Support → Cloud & DevOps Engineer (đang trên đường)`**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tamnguyen--portfolio.vercel.app-0ea5e9?style=for-the-badge)](https://tamnguyen-portfolio.vercel.app)
+[![Location](https://img.shields.io/badge/📍-Hồ_Chí_Minh,_Việt_Nam-red?style=for-the-badge)](#)
 
 </div>
+
+---
+
+## 🧭 Về tôi
+
+Tôi là IT Support Specialist với nền tảng vững chắc về hệ thống, mạng và troubleshooting — đang tích cực chuyển hướng sang **Cloud Support Engineering & DevOps**. Tôi xây dựng các project thực chiến để minh chứng khả năng vận hành hệ thống cloud ở cấp production, không chỉ học lý thuyết.
+
+- 🔭 Đang làm: **Kubernetes Cluster Monitoring** (Project 17)
+- 🌱 Đang học: **Kubernetes, Terraform, AWS CCP**
+- 💬 Hỏi tôi về: `Python scripting`, `Docker`, `Prometheus/Grafana`, `Linux sysadmin`
+- 🎯 Mục tiêu: Cloud Support / SRE / DevOps Engineer tại công ty tech
+- ⚡ Fun fact: IT Support giỏi nhất là người biết tự động hóa công việc của mình
+
+---
+
+## 🛠️ Công Nghệ & Kỹ Năng
+
+**Cloud & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+**Programming & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**AI & Data**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
 ## 📁 Portfolio Projects
 
-> 🌐 Full interactive portfolio: **[TamNguyenmeomeo.github.io](https://tamnguyen-portfolio.vercel.app/)**
-
-### 🤖 AI & Machine Learning for IT Operations
-
-| Project | Description | Tech | Status |
+| # | Project | Mô tả | Tech Stack |
 |---|---|---|---|
-| [10 — AI IT Support Assistant](https://github.com/TamNguyenmeomeo/10_ai_it_support_assistant) | RAG-powered helpdesk with Ollama LLM, SQLite KB (1,213 tickets), Telegram Bot | Python, Streamlit, Ollama | [![CI](https://github.com/TamNguyenmeomeo/10_ai_it_support_assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/TamNguyenmeomeo/10_ai_it_support_assistant/actions) [![Live](https://img.shields.io/badge/▶-Live_Demo-51cf66?style=flat-square)](https://tam-ai-support.streamlit.app) |
-| [12 — Log Anomaly Detector](https://github.com/TamNguyenmeomeo/12_log_anomaly_detector) | ML anomaly detection (Isolation Forest) on server logs. Webhook alerts. | Python, scikit-learn, Plotly | [![CI](https://github.com/TamNguyenmeomeo/12_log_anomaly_detector/actions/workflows/ci.yml/badge.svg)](https://github.com/TamNguyenmeomeo/12_log_anomaly_detector/actions) [![Live](https://img.shields.io/badge/▶-Live_Demo-51cf66?style=flat-square)](https://tam-rag-support.streamlit.app) |
+| 10 | [🤖 AI IT Support Assistant](https://github.com/TamNguyenmeomeo/10_ai_it_support_assistant) | Offline-first helpdesk agent: RAG + local LLM, tự động triage & sinh PowerShell script | Python, Ollama, SQLite |
+| 11 | [📡 Network & System Monitor](https://github.com/TamNguyenmeomeo/11_network_system_monitor) | Dashboard giám sát tài nguyên hệ thống, cảnh báo Discord/Telegram | Python, Streamlit, psutil |
+| 12 | [🔍 Log Anomaly Detector](https://github.com/TamNguyenmeomeo/12_log_anomaly_detector) | Phát hiện bất thường trong server log bằng ML, cảnh báo webhook | Python, Isolation Forest |
+| 13 | [⚙️ OS Setup Toolkit](https://github.com/TamNguyenmeomeo/13_os_setup_optimization_toolkit) | Tự động hóa cài đặt & tối ưu Windows/Linux cho IT team | Bash, PowerShell |
+| 14 | [☁️ Cloud Storage & IAM Simulator](https://github.com/TamNguyenmeomeo/14_cloud_storage_iam_simulator) | Mô phỏng S3/IAM với MinIO + Docker, phân quyền Admin/Dev/ReadOnly | Python, Docker, MinIO |
+| 15 | [📊 Cloud Monitoring Stack](https://github.com/TamNguyenmeomeo/15_cloud_monitoring_stack) | Production monitoring: Prometheus + Grafana + cAdvisor + Alertmanager | Docker Compose, Telegram |
+| 16 | [🚀 3-Tier Cloud Migration App](https://github.com/TamNguyenmeomeo/16_cloud_migration_3tier_app) | Nginx → Flask → PostgreSQL, deploy 1 lệnh lên GCP/AWS/DO | Docker, Flask, Nginx |
 
-### 📡 Monitoring & Infrastructure
+---
 
-| Project | Description | Tech | Status |
+## 🗺️ Career Roadmap: IT Support → Cloud Engineer
+
+| Kỹ năng cũ (IT Support) | → | Kỹ năng mới (Cloud/DevOps) | Status |
 |---|---|---|---|
-| [11 — Network & System Monitor](https://github.com/TamNguyenmeomeo/11_network_system_monitor) | Real-time CPU/RAM/Disk monitoring + host ping + Telegram alerts | Python, psutil, Plotly | [![CI](https://github.com/TamNguyenmeomeo/11_network_system_monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/TamNguyenmeomeo/11_network_system_monitor/actions) [![Live](https://img.shields.io/badge/▶-Live_Demo-51cf66?style=flat-square)](https://tam-it-assistant.streamlit.app) |
-| [15 — Cloud Monitoring Stack](https://github.com/TamNguyenmeomeo/15_cloud_monitoring_stack) | Prometheus + Grafana + cAdvisor + Alertmanager → Telegram | Docker, Prometheus, Grafana | [![CI](https://github.com/TamNguyenmeomeo/15_cloud_monitoring_stack/actions/workflows/ci.yml/badge.svg)](https://github.com/TamNguyenmeomeo/15_cloud_monitoring_stack/actions) |
-
-### ☁️ Cloud & DevOps
-
-| Project | Description | Tech | Status |
-|---|---|---|---|
-| [14 — Cloud Storage & IAM Simulator](https://github.com/TamNguyenmeomeo/14_cloud_storage_iam_simulator) | S3-compatible MinIO + IAM role simulation (Admin/Dev/ReadOnly) locally | Docker, MinIO, boto3 | [![CI](https://github.com/TamNguyenmeomeo/14_cloud_storage_iam_simulator/actions/workflows/ci.yml/badge.svg)](https://github.com/TamNguyenmeomeo/14_cloud_storage_iam_simulator/actions) |
-| [16 — 3-Tier Cloud Migration App](https://github.com/TamNguyenmeomeo/16_cloud_migration_3tier_app) | Nginx → Flask → PostgreSQL + one-command `deploy.sh` to cloud VPS | Docker, Flask, Nginx, PostgreSQL | [![CI](https://github.com/TamNguyenmeomeo/16_cloud_migration_3tier_app/actions/workflows/ci.yml/badge.svg)](https://github.com/TamNguyenmeomeo/16_cloud_migration_3tier_app/actions) |
-
-### 🛠️ SysAdmin & Automation
-
-| Project | Description | Tech |
-|---|---|---|
-| [13 — OS Setup & Optimization Toolkit](https://github.com/TamNguyenmeomeo/13_os_setup_optimization_toolkit) | Interactive CLI for post-install setup: diagnostics, cleanup, firewall audit | PowerShell, Bash |
+| Ticket Management | → | AI-Assisted Helpdesk (Pro 10) | ✅ Done |
+| Network Diagnostics | → | Real-time Monitoring (Pro 11, 15) | ✅ Done |
+| Log Analysis | → | ML Anomaly Detection (Pro 12) | ✅ Done |
+| OS Administration | → | Automated Setup Toolkit (Pro 13) | ✅ Done |
+| Cloud Fundamentals | → | IAM & Storage Simulation (Pro 14) | ✅ Done |
+| App Deployment | → | 3-Tier Cloud Migration (Pro 16) | ✅ Done |
+| Container Orchestration | → | Kubernetes Monitoring (Pro 17) | 🔄 In Progress |
+| Infrastructure as Code | → | Terraform on AWS | ⬜ Next |
 
 ---
 
@@ -88,31 +90,24 @@ I'm an IT Support specialist actively transitioning to **Cloud Support / Cloud O
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TamNguyenmeomeo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TamNguyenmeomeo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TamNguyenmeomeo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TamNguyenmeomeo&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TamNguyenmeomeo&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🗺️ Career Transition Roadmap
-
-```
-IT Helpdesk / Support           →    Cloud Support Engineer
-─────────────────────────────────────────────────────────
-✅ Ticket Management         ──►  ✅ AI-Assisted Helpdesk     (Pro 10)
-✅ Network Diagnostics       ──►  ✅ Real-time Monitoring      (Pro 11, 15)
-✅ Log Analysis              ──►  ✅ ML Anomaly Detection      (Pro 12)
-✅ OS Administration         ──►  ✅ Automated Setup Toolkit   (Pro 13)
-⬜ Cloud Fundamentals        ──►  ✅ IAM & Storage Simulation  (Pro 14)
-⬜ App Deployment            ──►  ✅ 3-Tier Cloud Migration    (Pro 16)
-⬜ Container Orchestration   ──►  🔄 Kubernetes               (Next)
-```
-
----
+## 📫 Liên Hệ
 
 <div align="center">
 
-*Building the bridge from IT Support → Cloud Engineering, one project at a time* 🚀
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://tamnguyen-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TamNguyenmeomeo)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+*Building the bridge from IT Support → Cloud Engineering, one project at a time 🚀*
 
 </div>
